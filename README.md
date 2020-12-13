@@ -9,6 +9,6 @@ To start your Phoenix server:
 
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
-#NOTE
+# NOTE
 
 Room CRUD functionality is not implemented yet. In order to create rooms run mix ecto.setup and then use a tool like PGAdmin or DataGrip to manually insert some chat rooms
